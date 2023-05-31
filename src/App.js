@@ -1,7 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import AboutPage from './components/Pages/AboutPage';
-import BlogPage from './components/Pages/BlogPage';
-import BlogPageOne from './components/Pages/BlogPageOne';
+import BlogPage from './components/Pages/BlogPage'; 
 import BlogDetailsPage from './components/Pages/BlogDetailsPage';
 import ContactPage from './components/Pages/ContactPage';
 import ErrorPage from './components/Pages/ErrorPage';
@@ -75,8 +74,7 @@ function App() {
           <Route path="sportsverseProjectPage" element={<SportsverseProjectPage />} />
 
 
-          <Route path="blog" element={<BlogPage />} />
-          <Route path="blogone" element={<BlogPageOne />} />
+          <Route path="blog" element={<BlogPage />} /> 
           <Route path="blog/:blogDetailsId" element={<BlogDetailsPage />} />
           <Route path="contact" element={<ContactPage />} />
           <Route path="team" element={<TeamPage />} />
