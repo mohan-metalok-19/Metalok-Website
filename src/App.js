@@ -8,7 +8,7 @@ import Home from './components/Pages/Home';
  import PortfolioDetailsPage from './components/Pages/PortfolioDetailsPage';
 import ServiceDetailsPage from './components/Pages/ServiceDetailsPage';
 import ServicesPage from './components/Pages/ServicesPage';
-import TeamPage from './components/Pages/TeamPage';
+import TeamPage from './components/Pages/TeamPage'; 
 import PortfolioPage from './components/Pages/PortfolioPage';
 import TeamDetails from './components/Pages/TeamDetails';
 import PhotographyAgencyHome from './components/Pages/PhotographyAgencyHome';
@@ -27,18 +27,18 @@ import ZeeProjectPage from './components/Pages/zeeProjectPage'
 import WebsummitProjectPage from './components/Pages/websummitProjectPage';
 import AkshyaProjectPage from './components/Pages/akshyaProjectPage';
 import SportsverseProjectPage from './components/Pages/sportsverseProjectPage';
-import BusinessPage from './components/Pages/businessPage';
-import MetaverseBlogPage from './components/Pages/metaverseBlogPage';
-import CryptoBlogPage from './components/Pages/cryptoBlogPage';
-import NftBlogPage from './components/Pages/nftBlogPage';
-import BlockchainBlogPage from './components/Pages/blockchainBlogPage';
-import GamificationBlogPage from './components/Pages/gamificationBlogPage';
-// import { Link } from 'react-router-dom';
-import ThreedconfiguratorPage from './components/Pages/ThreedconfiguratorPage'; 
-import MetaverseSpacePage from './components/Pages/MetaverseSpacePage';
-import BlockchainServicePage from './components/Pages/BlockchainServicePage';
+import BusinessPage from './components/Pages/businessPage'; 
+import MetaverseBlogPage from './components/Pages/metaverseBlogPage'; 
+import CryptoBlogPage from './components/Pages/cryptoBlogPage'; 
+import NftBlogPage from './components/Pages/nftBlogPage'; 
+import BlockchainBlogPage from './components/Pages/blockchainBlogPage'; 
+import GamificationBlogPage from './components/Pages/gamificationBlogPage'; 
+// import { Link } from 'react-router-dom'; 
+import ThreedconfiguratorPage from './components/Pages/ThreedconfiguratorPage';  
+import MetaverseSpacePage from './components/Pages/MetaverseSpacePage'; 
+import BlockchainServicePage from './components/Pages/BlockchainServicePage'; 
 
-function App() {
+function App() { 
   return (
     <>
 
